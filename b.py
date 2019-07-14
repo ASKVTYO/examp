@@ -1,2 +1,3 @@
 a=3
-print(a)
+d=5
+print(d)
